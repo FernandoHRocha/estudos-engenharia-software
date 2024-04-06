@@ -18,7 +18,7 @@
 
 #### Requisitos funcionais e não funcionais
 
-1. Funcionais: especificam o que os serviços/funcões que o sistema deve oferecer ao usuário, assim como suas limitações/restrições.
+1. Funcionais: especificam os serviços/funcões que o sistema deve oferecer ao usuário, assim como suas limitações/restrições.
 2. Não funcionais: especificam restrições técnicas ao funcionamento do sistema.
 
 ##### Requisitos funcionais e não funcionais
